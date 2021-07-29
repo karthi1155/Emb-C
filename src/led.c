@@ -29,6 +29,12 @@ int check()
             _delay_ms(1000);
             flag = 1;
         }
+        else if (!switch1&&switch2)
+        {
+            LED_OP |= (1<<STATUS_LED);
+            _delay_ms(1000);
+            flag = 1;
+        }
         else
         {
             //LED is off otherwise

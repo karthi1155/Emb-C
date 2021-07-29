@@ -6,7 +6,7 @@ int main(void)
     initPort();
     initADC();
     initPWM();
-    //initUSART(103);
+    initUSART(103);
 
     while(1)
     {
@@ -22,7 +22,7 @@ int main(void)
             _delay_ms(200);
             temperature = Generate_PWM(temp);
             _delay_ms(200);
-            //transmitCharUSART(temperature);
+            transmitCharUSART(temperature);
         }
         else
         {
