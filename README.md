@@ -28,7 +28,7 @@
 
 ![condition output](https://user-images.githubusercontent.com/86143586/127442485-0ae1010e-9cbd-4c4a-b019-c92385afb819.JPG)
 
-## The range of temperatures that can be set in heater when passenger is in car
+## The Different range of temperatures 
 |Conditions| Simulation |
 |----------|------------|
 |ADC value 0-200|![0-200](https://user-images.githubusercontent.com/86143586/127443665-59fcea33-53e5-4c3f-a4f7-17af71338ff3.JPG)|
