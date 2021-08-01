@@ -35,3 +35,7 @@
 |ADC value 201-500|![201-500](https://user-images.githubusercontent.com/86143586/127443671-5692e4e3-2e09-4e5b-a603-e7788952579b.JPG)|
 |ADC value 501-700|![700](https://user-images.githubusercontent.com/86143586/127443673-10d8a886-b882-40b9-b2b1-9b367fbf3f40.JPG)|
 |ADC value 700-1024|![1024](https://user-images.githubusercontent.com/86143586/127443677-22e6954d-7beb-409c-8b14-22c1a509185a.JPG)|
+
+| Compile| cppcheck|
+|--------|---------|
+|[![Compile-Linux](https://github.com/karthi1155/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/karthi1155/Emb-C/actions/workflows/Compile.yml) | [![Cppcheck](https://github.com/karthi1155/Emb-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/karthi1155/Emb-C/actions/workflows/cppcheck.yml)|
